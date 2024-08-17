@@ -1,8 +1,8 @@
 # mm-s3
-This module is used to collect S3 bucket data and configurations from an AWS account.
+This plugin is used to collect S3 bucket data and configurations from an AWS account.
 
 ## Configuration
-Configuration required to call and use this module in mist-miner.
+Configuration required to call and use this plugin in mist-miner.
 
 ```hcl
 plug "mm-s3" "custom group name" {
@@ -13,7 +13,7 @@ plug "mm-s3" "custom group name" {
 ```
 
 ## Notes
-Directory buckets are not supported in this module currently.
+Directory buckets are not supported in this plugin currently.
 
 ## Resource collections
 
