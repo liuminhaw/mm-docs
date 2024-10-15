@@ -10,3 +10,16 @@ Usage:
 Flags:
   -h, --help   help for diary
 ```
+
+## Available commands: `diary commit`
+
+### Usage
+```
+Commit udpated diary records to history
+
+Usage:
+  mist-miner diary commit [flags]
+
+Flags:
+  -h, --help   help for commit
+```
